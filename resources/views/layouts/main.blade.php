@@ -11,7 +11,7 @@
         <link rel="icon" href="{{ asset("images/logo.jpg") }}" type="image/jpg" />
 
         {{-- Icon --}}
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@4.3.0/fonts/remixicon.min.css" />
+        {{-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/remixicon@4.3.0/fonts/remixicon.min.css" /> --}}
 
         {{-- Font --}}
         <link rel="preconnect" href="https://fonts.googleapis.com" />
