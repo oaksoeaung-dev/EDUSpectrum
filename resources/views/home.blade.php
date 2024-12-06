@@ -207,7 +207,7 @@
                 <p class="work__subtitle mx-auto max-w-3xl">The timetable is more than just a schedule—it's a carefully crafted pathway that balances rigorous academics, diverse extracurriculars, and personal growth, guiding students to excel in a globalized world."</p>
             </div>
             {{-- Grid --}}
-            <div class="work__grid grid grid-cols-1 gap-x-[104px] gap-y-[56px] xl:grid-cols-3">
+            <div class="work__grid grid grid-cols-1 gap-x-[104px] gap-y-[56px] xl:grid-cols-3 place-items-center">
                 <div class="relative flex h-[400px] w-80 flex-col justify-between">
                     <!-- ImageBox -->
                     <div class="relative h-60 w-full rounded-2xl bg-cover before:absolute before:bottom-0 before:left-1/2 before:h-[20px] before:w-[20px] before:rounded-full before:shadow-[-10px_10px_0_#fff] before:content-[''] after:absolute after:bottom-[70px] after:left-0 after:h-[20px] after:w-[20px] after:rounded-full after:bg-transparent after:shadow-[-10px_10px_0_#fff] after:content-['']" style="background-image: url('{{ asset("images/hero/bg.jpg") }}')"></div>
